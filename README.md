@@ -38,18 +38,8 @@ This repository documents my participation in the Data Analytics and Visualizati
 - Created a video presentation to enhance engagement and convey complex concepts effectively.
 - Ensured alignment with Accenture's professional standards and branding guidelines.
 
-## How to Use This Repository
 
-1. **Code**: Explore the `code` directory to review the Python scripts used for data analysis and modeling.
-
-2. **Datasets**: Access the `datasets` directory to find the raw and cleaned datasets used in the simulation.
-
-3. **Presentation**: Navigate to the `presentation` directory to view the PowerPoint deck 
-
-4. **Documentation**: Refer to the `documentation` directory for any additional notes, insights, or supplementary materials.
-
-## Acknowledgments
-
+## Acknowledgement 
 I would like to express my gratitude to Accenture for providing this immersive simulation experience, allowing me to apply and enhance my data analytics and visualization skills.
 
 
